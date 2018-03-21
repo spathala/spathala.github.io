@@ -21,14 +21,19 @@ Below are some screenshots for the application.
 * TB Tests Page
 ![alt text](https://raw.githubusercontent.com/spathala/spathala.github.io/master/docs/screenshots/TB_landing_page.PNG "TB Tests") 
 
+* Immunization Page
+![alt text](https://raw.githubusercontent.com/spathala/spathala.github.io/master/docs/screenshots/Immunization.PNG "Immunizations")
+
+* Fit Test Page
+![alt text](https://raw.githubusercontent.com/spathala/spathala.github.io/master/docs/screenshots/Fit_test.PNG "Fit Test")
 ### Live Demo
 
-#### <a href="https://ofd-capstone-test.herokuapp.com/login">"OFD Personnel Health and Wellness Web application"</a>
+#### <a href="https://ofd-capstone-test.herokuapp.com/login">"OFD Personnel Health and Saftey Web application"</a>
 
 ### Website Feature's Navigation Instructions
 ## Contributing
 
-Thank you for considering contributing to the OFD Personnel Wellness and Saftey web application! please send an e-mail to Dr.George Royce at groyce@unomaha.edu, if you wish to contribute.
+Thank you for considering contributing to the OFD Personnel Health and Saftey web application! please send an e-mail to Dr.George Royce at groyce@unomaha.edu, if you wish to contribute.
 
 ## Security Vulnerabilities
 
