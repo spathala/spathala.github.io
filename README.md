@@ -26,3 +26,14 @@ Below are some screenshots for the application.
 #### <a href="https://ofd-capstone-test.herokuapp.com/login">"OFD Personnel Health and Wellness Web application"</a>
 
 ### Website Feature's Navigation Instructions
+## Contributing
+
+Thank you for considering contributing to the OFD Personnel Wellness and Saftey web application! please send an e-mail to Dr.George Royce at groyce@unomaha.edu, if you wish to contribute.
+
+## Security Vulnerabilities
+
+If you discover a security vulnerability within the web application, please send an e-mail to Dr.George Royce at groyce@unomaha.edu. All security vulnerabilities will be promptly addressed.
+
+## License
+
+The UNO - OFD Perosnnel Wellness and Saftey web application is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
