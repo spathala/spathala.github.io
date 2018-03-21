@@ -13,13 +13,13 @@ Documentation for the OFD Personnel Health and Saftey Web Application can be fou
 Below are some screenshots for the application.
 
 * Authentication Page
-![alt text](/documents/screenshots/Login.png "Login")
+![alt text](/docs/screenshots/Login.png "Login")
 
 * Home Page
 ![alt text](/docs/screenshots/Dashboard.png "Dashboard")
 
 * TB Tests Page
-![alt text](/docs/screenshots/TB module landing page.png "TB Tests") 
+![alt text](/docs/screenshots/TB_landing_page.png "TB Tests") 
 
 ### Live Demo
 
