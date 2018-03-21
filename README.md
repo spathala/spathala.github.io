@@ -12,7 +12,7 @@ Our application uses the Laravel web application framework. Documentation for th
 Documentation for the OFD Personnel Health and Saftey Web Application can be found on the [OFD Personnel Health and Saftey website](https://github.com/ISQA-Classes/groyce.github.io).
 Below are some screenshots for the application.
 
-* Authentication Application
+* Authentication Page
 ![alt text](/documents/screenshots/Login.png "Login")
 
 * Home Page
