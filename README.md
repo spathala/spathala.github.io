@@ -13,13 +13,13 @@ Documentation for the OFD Personnel Health and Saftey Web Application can be fou
 Below are some screenshots for the application.
 
 * Authentication Page
-![alt text](/docs/screenshots/Login.png?raw=true "Login")
+![alt text](https://raw.githubusercontent.com/spathala/spathala.github.io/master/docs/screenshots/Login.PNG "Login")
 
 * Home Page
-![alt text](/docs/screenshots/Dashboard.png?raw=true "Dashboard")
+![alt text](https://raw.githubusercontent.com/spathala/spathala.github.io/master/docs/screenshots/Dashboard.PNG "Dashboard")
 
 * TB Tests Page
-![alt text](/docs/screenshots/TB_landing_page.png?raw=true "TB Tests") 
+![alt text](https://raw.githubusercontent.com/spathala/spathala.github.io/master/docs/screenshots/TB_landing_page.PNG "TB Tests") 
 
 ### Live Demo
 
