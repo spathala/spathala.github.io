@@ -28,10 +28,10 @@ Below are some screenshots for the application.
 ![alt text](https://raw.githubusercontent.com/spathala/spathala.github.io/master/docs/screenshots/Fit_test.PNG "Fit Test")
 ### Live Demo
 
-#### <a href="https://ofd-capstone-test.herokuapp.com/login">"OFD Personnel Health and Saftey Web application"</a>
+#### <a href="https://ofd-capstone-test.herokuapp.com/login"> OFD Personnel Health and Saftey Web application </a>
 
 ### Website Feature's Navigation Instructions
-#### <a href="https://spathala.github.io/docs/index.html"> " OFD Personnel Health and Saftey web app user manual"</a>
+#### <a href="https://spathala.github.io/docs/index.html"> OFD Personnel Health and Saftey web app user guide </a>
 ## Contributing
 
 Thank you for considering contributing to the OFD Personnel Health and Saftey web application! please send an e-mail to Dr.George Royce at groyce@unomaha.edu, if you wish to contribute.
